@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+dataset/
+datasets/
+images/
+outputs/
+*.log
+.env
+.env.*
+.DS_Store
+best_model.pth
